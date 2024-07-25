@@ -24,6 +24,6 @@ export class Util{
     }
 
     static getPathFileEntities(dirname,typeName){
-        return path.join(dirname, `../../../backend/${typeName}.json`);
+        return path.join(dirname, `../../data/${typeName}.json`);
     }
 }
