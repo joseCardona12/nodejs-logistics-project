@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "name": "warehouse 1",
+    "location": "location 1",
+    "driver_id": 1,
+    "vehicle_id": 1
+  }
+]
